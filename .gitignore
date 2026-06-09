@@ -1,0 +1,6 @@
+# virtual environment
+.venv_xps/
+
+# python cache
+__pycache__/
+*.pyc
